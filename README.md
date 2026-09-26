@@ -17,6 +17,8 @@ The project allows users to create contact notes with an image, name, hometown, 
 
 ![Project Screenshot](./Screenshot/2.create-note-form.png)
 
+![Project Screenshot](./Screenshot/3.form-validation.png)
+
 ---
 
 ## ✨ Features
@@ -111,7 +113,8 @@ call-notes-app/
 │
 ├── screenshots/
 │   ├── 1.main-interface.png
-|   └── 2.create-note-form.png
+|   ├── 2.create-note-form.png
+|   └── 3.form-validation.png
 │
 └── README.md
 ```

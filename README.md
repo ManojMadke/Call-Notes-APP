@@ -14,11 +14,9 @@ The project allows users to create contact notes with an image, name, hometown, 
 
 ## 📸 Screenshot
 
-![Project Screenshot](./screenshots/demo.png)
+![Project Screenshot](./Screenshot/1.main-interface.png)
 
-> Add your project screenshot inside:
->
-> `screenshots/demo.png`
+![Project Screenshot](./Screenshot/2.create-note-form.png)
 
 ---
 

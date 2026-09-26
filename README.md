@@ -6,9 +6,8 @@ The project allows users to create contact notes with an image, name, hometown, 
 
 ## 🚀 Live Demo
 
-🔗 **[View Live Demo](YOUR_LIVE_DEMO_URL)**
+🔗 Link :- https://call-notes-app.vercel.app/
 
-> Replace `YOUR_LIVE_DEMO_URL` with your deployed Vercel / GitHub Pages link.
 
 ---
 

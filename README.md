@@ -140,22 +140,6 @@ While building this project, I practiced:
 
 ---
 
-## 🔮 Future Improvements
-
-Some features that can be added in future versions:
-
-* [ ] Functional Call button
-* [ ] Functional Message button
-* [ ] Delete note functionality
-* [ ] Edit existing notes
-* [ ] Search and filter notes
-* [ ] Category-based filtering
-* [ ] Dark/Light theme
-* [ ] Better mobile responsiveness
-* [ ] Backend/database integration
-
----
-
 ## 👨‍💻 Author
 
 **Manoj Anand Madke**
